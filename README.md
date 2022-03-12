@@ -8,7 +8,7 @@ From our analysis we see that Urban cities have the highest number of drivers, r
 
 ![Screen Shot 2022-03-12 at 3 54 29 PM](https://user-images.githubusercontent.com/93875400/158034656-c7e1976f-f93f-4c56-ad84-aad52a36ea29.png)
 
-##Summary 
+## Summary 
 A few tips to help improve disparities among the city types are:
 * Creating a reward system for total of number of rides taken for cities with low number of rides . For example if a rider takes 10 rides the 11th ride would be discounted or free.
 * Where total rides are high and drivers are low give riders the option of walking a small distance to there ride in order to save money. 
